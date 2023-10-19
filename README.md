@@ -9,9 +9,9 @@ Nous avons choisi de réaliser le "the barbershop problem" avec comme variante, 
 
 ### Présentation
 
-Ce problème gère une clientèle qui va dans un cabinet médical. Le cabinet médical compte 2 médecins, dont un qui met 2 secondes à examiner un patient et l'autre 5 secondes.
+Ce problème gère une clientèle qui va dans un cabinet médical. Le cabinet médical compte un médecin, dont un qui met 2 secondes à examiner un patient.
 L'établissement posséde 4 chaises en salle d'attente. 
-Au début de la situation, les médecins dorment car il y a aucun patient. Par la suite, les premiers clients arrivent et sont directement pris en charge. Une fois plus de place dans la salle d'attente, ils doivent partir du cabinet. une fois tous les clients pris en charge, le cabinet ferme ses portes.
+Au début de la situation, le médecin dorme car il y a aucun patient. Par la suite, les premiers clients arrivent et sont directement pris en charge. Une fois plus de place dans la salle d'attente, ils doivent partir du cabinet. Une fois tous les clients pris en charge, le cabinet ferme ses portes.
 
 
 
